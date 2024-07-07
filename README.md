@@ -23,15 +23,12 @@ O Pass-in Table é um projeto Front-End feito dentro de uma das trilhas do event
 
 ### Screenshots
 <p align="center">
-  <img alt="Tela 1" src="assets/screenshots/print1.jpg" width="100%">
-</p>
-<p align="center">
-  <img alt="Tela 2" src="assets/screenshots/print2.jpg" width="100%">
+  <img alt="Tela 1" src="./public/assets/screenshot.jpg" width="100%">
 </p>
 
 ### Links
-- [Acesse o projeto finalizado, online ☁️]()
-- [Acesse o figma do projeto 🖼️]()
+- [Acesse o projeto finalizado, online ☁️](https://pass-in-table.vercel.app/)
+- [Acesse o figma do projeto 🖼️](https://www.figma.com/design/vM7fAZMjJYvkcwhrHVnFVI/pass.in-(Community)?m=auto&is-community-duplicate=1&fuid=1125594134680598253)
 
 </br>
 
