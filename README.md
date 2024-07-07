@@ -1,68 +1,68 @@
-<h2 align="center">Projeto Pass-in Table</h2>
+<h2 align="center"> Pass-in Table</h2>
 
-### Construção em andamento...
-<!--
 <p align="center">
-Desenvolvido durante o início de 2023 com foco no aprendizado da linguagem JavaScript e para fortalecer ainda mais minhas habilidades técnicas 🚀⚡. <br/>
+Desenvolvido durante o NLW Unite promovido pela Rocketseat<br/>
 </p>
 
-- [Overview](#overview)
-  - [Sobre o projeto](#sobre)
+- [Visão geral](#visão-geral)
+  - [Sobre o projeto](#sobre-o-projeto)
   - [Screenshots](#screenshots)
   - [Links](#links)
-- [My process](#my-process)
-  - [Desenvolvido com](#tecnologias)
+- [Meu processo](#meu-processo)
+  - [Tecnologias](#tecnologias)
   - [Continuar o desenvolvimento](#continuar-o-desenvolvimento)
   - [Recursos úteis](#recursos-úteis)
-- [Author](#autor)
+- [Autor ](#autor)
 
 
 </br>
 
-## Overview
-### Sobre
-CRUD (Create, Read, Update, Delete) é um acrônimo para as maneiras de se operar em informações armazenadas seja em um banco de dados, ou na sua máquina ou na nuvem. No casso desse projeto, as informações ficam armazenadas no LocalStorage da máquina do cliente. Podemos fazer o cadastro e a listagem dos dados e informações como também a edição e remoção. Um CRUD pode servir para diferentes modelos: Hotel, Funcionários de uma empresa, Supermercado, Concessionária e etc. Ou Seja, onde se tem informações que precisam ser trabalhadas é bom ter um CRUD para organizar e se fazer manutenção delas.
+## Visão geral
+### Sobre o projeto
+O Pass-in Table é um projeto Front-End feito dentro de uma das trilhas do evento (No caso escolhi a de React). Basicamente, se trata de uma tabela com a listagem dos dados e informações de usuários que se cadastraram no evento. Mas como é um projeto Front-End então para fazer a simulação dos dados foi utilizado o faker-js (No final da aula o Diego utiliza a API feita na tilha de Node.js mas deixei com o faker-js pois achei mais didático).
 
 ### Screenshots
 <p align="center">
-  <img alt="Tela 1" src="assets/print1.jpg" width="100%">
+  <img alt="Tela 1" src="assets/screenshots/print1.jpg" width="100%">
 </p>
 <p align="center">
-  <img alt="Tela 2" src="assets/print2.jpg" width="100%">
-</p>
-<p align="center">
-  <img alt="Tela 3" src="assets/print3.jpg" width="100%">
+  <img alt="Tela 2" src="assets/screenshots/print2.jpg" width="100%">
 </p>
 
 ### Links
-- [Acesse o projeto finalizado, online ☁️](https://joaoalisonti.github.io/CRUD-JavaScript/)
+- [Acesse o projeto finalizado, online ☁️]()
+- [Acesse o figma do projeto 🖼️]()
 
 </br>
 
-## My process
+## Meu processo
 ### Tecnologias
-### ⚙️👨‍💻
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
-- JavaScript
+- React
+- TypeScript
+- Tailwind CSS
+- Vite.js
 - Git e Github
 
+Foi utilizado o Vite.js para criar o projeto (React + TypeScript), Tailwind para a estilazação e Git/Github para o versionamento do código.
+
+Nenhuma dessas ferramentas é novidade pra mim pois já havia criado alguns projetos com elas, porém estou no processo de aprendizado por isso é sempre bom continuar praticando.
+
+Aí pra não ficar só copy-paste eu deixei do jeito até onde eu tava entendendo e poderia complementar, ou seja, eu adicionei minha própria função para fazer a filtragem dos dados e corrigi algumas coisas sem ter que olhar as aulas (Até porque já tinha passado kkkk) ou o código fonte.
+
 ### Continuar o desenvolvimento
-Pretendo adicionar um elemento search-box para fazer a pesquisa e filtragem das informações/dados do CRUD.
+Acho que necessita de uma limpada no código e adicionar algumas novas feats tipo excluir os dados. Vou ver futuras idéias com o layout desse projeto...
 
 ### Recursos úteis
-- [Guia completo de flexbox](https://origamid.com/projetos/flexbox-guia-completo/) - Aprenda a utilizar o flexbox para a criação de layouts responsivos com css.
-- [Conceitos básicos de flexbox](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) - Este artigo fornece um resumo das principais funcionalidades do flexbox.
-- [Learn CRUD Operations in JavaScript by Building TODO APP](https://www.freecodecamp.org/news/learn-crud-operations-in-javascript-by-building-todo-app/) - CRUD é um tipo de mecanismo que permite criar dados, ler dados, editá-los e excluí-los. Neste caso vai ser abordado sobre um app Todo, mas como também utiliza as 4 operações CRUD ele também se torna importante para entender os seus princípios.
+- [Vite.js](https://vitejs.dev/) - Next Generation Frontend Tooling.
+- [faker-js](https://fakerjs.dev/) - Generate massive amounts of fake (but realistic) data for testing and development.
 
 </br>
 
 ## Autor
-*João Alison TI 👨🏽‍💻*
+*JoãoAlisonTI 👨🏽‍💻*
 
 ---
 
-<strong>2023</strong>
--->
+<strong>2024</strong>
